@@ -1,0 +1,8 @@
+D:\MIO LAPTOP\Documentos\SharpDevelop Projects\Notas\Notas\bin\Debug\Notas.exe.config
+D:\MIO LAPTOP\Documentos\SharpDevelop Projects\Notas\Notas\bin\Debug\Notas.exe
+D:\MIO LAPTOP\Documentos\SharpDevelop Projects\Notas\Notas\bin\Debug\Notas.pdb
+D:\MIO LAPTOP\Documentos\SharpDevelop Projects\Notas\Notas\obj\Debug\Notas.MainForm.resources
+D:\MIO LAPTOP\Documentos\SharpDevelop Projects\Notas\Notas\obj\Debug\Notas.csproj.GenerateResource.Cache
+D:\MIO LAPTOP\Documentos\SharpDevelop Projects\Notas\Notas\obj\Debug\Notas.exe
+D:\MIO LAPTOP\Documentos\SharpDevelop Projects\Notas\Notas\obj\Debug\Notas.pdb
+D:\MIO LAPTOP\Documentos\SharpDevelop Projects\Notas\Notas\obj\Debug\Notas.csprojAssemblyReference.cache
