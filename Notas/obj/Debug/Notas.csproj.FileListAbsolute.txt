@@ -6,3 +6,13 @@ D:\MIO LAPTOP\Documentos\SharpDevelop Projects\Notas\Notas\obj\Debug\Notas.cspro
 D:\MIO LAPTOP\Documentos\SharpDevelop Projects\Notas\Notas\obj\Debug\Notas.exe
 D:\MIO LAPTOP\Documentos\SharpDevelop Projects\Notas\Notas\obj\Debug\Notas.pdb
 D:\MIO LAPTOP\Documentos\SharpDevelop Projects\Notas\Notas\obj\Debug\Notas.csprojAssemblyReference.cache
+C:\Users\AngelAguirre\Documents\CUCEI\Ayudas\BNotas\Notas\bin\Debug\Notas.exe.config
+C:\Users\AngelAguirre\Documents\CUCEI\Ayudas\BNotas\Notas\bin\Debug\Notas.exe
+C:\Users\AngelAguirre\Documents\CUCEI\Ayudas\BNotas\Notas\bin\Debug\Notas.pdb
+C:\Users\AngelAguirre\Documents\CUCEI\Ayudas\BNotas\Notas\obj\Debug\Notas.csprojAssemblyReference.cache
+C:\Users\AngelAguirre\Documents\CUCEI\Ayudas\BNotas\Notas\obj\Debug\Notas.Buscar.resources
+C:\Users\AngelAguirre\Documents\CUCEI\Ayudas\BNotas\Notas\obj\Debug\Notas.MainForm.resources
+C:\Users\AngelAguirre\Documents\CUCEI\Ayudas\BNotas\Notas\obj\Debug\Notas.csproj.GenerateResource.cache
+C:\Users\AngelAguirre\Documents\CUCEI\Ayudas\BNotas\Notas\obj\Debug\Notas.csproj.CoreCompileInputs.cache
+C:\Users\AngelAguirre\Documents\CUCEI\Ayudas\BNotas\Notas\obj\Debug\Notas.exe
+C:\Users\AngelAguirre\Documents\CUCEI\Ayudas\BNotas\Notas\obj\Debug\Notas.pdb

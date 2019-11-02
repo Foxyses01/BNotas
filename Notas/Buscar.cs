@@ -15,6 +15,7 @@ namespace Notas
         string Palabra;
         List<string> Letras;
         List<int> Indices;
+        Dictionary<string, int> dic = new Dictionary<string, int>();
 
         public Buscar(string Texto)
         {
@@ -23,34 +24,35 @@ namespace Notas
         }
 
         private 
-            void button1_Click(object sender, EventArgs e)
+        void button1_Click(object sender, EventArgs e)
         {
             this.Palabra = this.textBox1.Text;
+            Tabla();
         }
         
-            void Tabla()
+        void Tabla()
         {
-            foreach (var Letra in Palabra)
+            
+            
+            for(int i = Palabra.Length - 1; i >= 0; i--)
             {
-                if (!Letras.Contains(Letra.ToString()))
+                if (!dic.ContainsKey(Palabra[i].ToString()))
                 {
-                    Letras.Add(Letra.ToString());
+                    dic.Add(Palabra[i].ToString(), (Palabra.Length - 1) - i);
                 }
             }
-            Letras.Add("otros");
 
-            for (int i=0;i<Letras.Count;i++)
+            dic.Add("Otros", Palabra.Length);
+
+            foreach(var key in dic.Keys)
             {
-                for( int j=Palabra.Length-1;j>=0;j--)
-                {
-                   
-                }
-
+                Console.WriteLine(key + " -> " + dic[key]);
             }
-         
+
+            Console.WriteLine(dic);
         }
 
-            void Boyer() 
+        void Boyer() 
         {
         
 
